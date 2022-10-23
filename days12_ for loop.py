@@ -8,7 +8,7 @@
              # print (angka)
 #loop seterusnya......
 
-#perulangan di bedakan menjadi 2  yaitu:
+#
 # perulangan for ( for loop )
 # for dalam fungsi range()
 for i in range (7): # 
